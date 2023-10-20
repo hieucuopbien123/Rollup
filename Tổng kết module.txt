@@ -1,7 +1,7 @@
 Rollup
 => ref tới "ZKP / search ZKSnark"
 => ref tới "ZKP / search Groth16"
-
+//!!!! Phải ghi nó liên quan như nào chứ, tổng quan phải ghi cả zk rollup nữa
 
 
 # Basic
